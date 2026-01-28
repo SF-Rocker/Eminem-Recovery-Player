@@ -21,3 +21,7 @@ Notes & Legal
 - Do not distribute copyrighted material without permission. This tool is for personal use with files you legally own.
 
 If you want, I can copy tracks from `~/Music` into `audio/` for you and create a small `playlist.json`. Tell me if you want that and confirm the exact path to your files.
+
+The URL IS https://sf-rocker.github.io/Eminem-Recovery-Player/
+
+Add Your Purchased Recovery Album Tracks to Player to get it to play.
